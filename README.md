@@ -1,2 +1,6 @@
 # hello-world
-This is my hello world repository
+This is a hello world repository
+
+This is a little bit about me, here is the story of my life...
+
+I like writing letters on the screen.
